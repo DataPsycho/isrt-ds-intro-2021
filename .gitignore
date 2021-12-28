@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ide
+.idea
+.DS_Store
+
+# Presentation
+presentation/~$Data-Science-Intro*
